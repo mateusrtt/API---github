@@ -17,5 +17,8 @@ Este código implementa uma função chamada `getApi()`, que faz uma requisiçã
    - Caso ocorra algum erro (como o nome do usuário ser inválido ou não existir), uma mensagem de erro será exibida na tela informando que houve um problema na busca.
 
 
+## Link do projeto
+
+https://mateusrtt.github.io/API-github/
 
 ![git](https://github.com/user-attachments/assets/f6a1f98e-7647-4588-a1ca-424bb2d31e45)
